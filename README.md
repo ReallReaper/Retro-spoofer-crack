@@ -4,7 +4,7 @@ look, to use this spoofer, the only thing you need is to enter their shitty disc
 
 [Server Link] https://discord.gg/swoofer
 
+The Owner
 
-
-The Owner ![imagen](https://user-images.githubusercontent.com/95001569/168433542-154258f0-7cc8-4fc3-a4b3-30d836d80936.png)
+[imagen](https://user-images.githubusercontent.com/95001569/168433542-154258f0-7cc8-4fc3-a4b3-30d836d80936.png)
 
