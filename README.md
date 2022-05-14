@@ -10,3 +10,8 @@ The Owner
 
 
 If you need the original file, here: https://anonym.ninja/download/aapVSrLpAt5qa8h
+
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReallReaper&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
